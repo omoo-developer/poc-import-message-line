@@ -4,13 +4,27 @@ const csv = require('csv-parser');
 const { v4: uuidv4 } = require('uuid');
 const sourcePath = './customers';
 const conversationPath = './conversations';
+const messagePath = './messages'
 const folderPath = './csv';
 const targetLine = 5;
 
 let customers = [];
 let conversations = [];
+let oldMessages = []
 let messages = [];
 let conversationMessages = []
+
+const isSameDayTime = (date1, date2) => {
+  // console.log(date1.getMinutes() , date2.getMinutes())
+  return (
+    date1.getFullYear() === date2.getFullYear() &&
+    date1.getMonth() === date2.getMonth() &&
+    date1.getDate() === date2.getDate() &&
+    date1.getHours() === date2.getHours() &&
+    date1.getMinutes() === date2.getMinutes()
+  );
+};
+
 
 const readCSVFolder = async (folder) => {
   const files = await fs.promises.readdir(folder);
@@ -68,6 +82,9 @@ const main = async () => {
     conversations = await readCSVFolder(conversationPath);
     console.log(`✅ Conversations loaded: ${conversations.length}`);
 
+    console.log('📥 Loading old message...');
+    oldMessages = await readCSVFolder(messagePath)
+
     console.log('📥 Processing message CSVs...');
     const outputRows = await readCSVFolderWithLineFilter(folderPath, targetLine);
 
@@ -78,29 +95,51 @@ const main = async () => {
 
       const customer = customers.find(cs => cs.firstName === name);
 
-    //   console.log({conversations })
+      //   console.log({conversations })
       const conversation = conversations.find(con => con.customerId === customer?._id)
 
-      const is3rdParty =  !customer?._id
+      const is3rdParty = !customer?._id
       return { _id: `import_${uuidv4()}`, content: message, createdAt, customerId: customer?._id || null, userId: null, conversationId: conversation?._id || null, from3rdParty: is3rdParty };
     });
 
-    conversationMessages = outputRows.map(row => {
+
+
+    outputRows.forEach(row => {
       const message = row._4 || row.Message || row.content || '';
       const createdAt = `${row._2?.replaceAll('/', '-') || ''}T${row._3 || ''}`;
+      const name = row.ALNEX || row.sender || row.Name || '';
 
-      const customer = customers.find(cs => cs.firstName === name);
+      const isExistingMessage = oldMessages.some(ms => {
+        // ✅ Add 9 hours
+        const date = new Date(createdAt);
+        const createdAtWith9Hour = new Date(date.getTime() + 7 * 60 * 60 * 1000);
 
-    //   console.log({conversations })
+        
+
+        const isSameContent = message === ms.content
+        const isSameCreatedAt = isSameDayTime(createdAtWith9Hour, new Date(new Date(ms.createdAt).getTime() + 9 * 60 * 60 * 1000))
+        if (isSameCreatedAt ) {
+          console.log({ ms: ms._id })
+        }
+        return isSameContent && isSameCreatedAt
+      })
+
+
+      if (isExistingMessage) return
+
+
+      const customer = customers.find(cs => cs.ogName === name);
+
+        
       const conversation = conversations.find(con => con.customerId === customer?._id)
 
-      const is3rdParty =  !customer?._id
-      return { _id: `import_${uuidv4()}`, content: message, createdAt, customerId: customer?._id || null, userId: null, conversationId: conversation?._id || null, from3rdParty: is3rdParty, recipientId:  };
+      const is3rdParty = !customer?._id
 
+      conversationMessages.push({ _id: `import_${uuidv4()}`, content: message, createdAt: new Date(createdAt), customerId: customer?._id || null, userId: null, conversationId: conversation?._id || null, from3rdParty: is3rdParty })
     })
 
     console.log(`📦 Total messages parsed: ${messages.length}`);
-    fs.writeFileSync('messages.json', JSON.stringify(messages, null, 2));
+    fs.writeFileSync('messages.json', JSON.stringify(conversationMessages, null, 2));
     console.log('💾 File saved: output.json');
   } catch (err) {
     console.error('❌ Error:', err);

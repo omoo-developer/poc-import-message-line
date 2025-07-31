@@ -1,1748 +1,650 @@
 [
   {
-    "_id": "import_277cd1a7-40d3-471f-a4cc-692a152dd393",
+    "_id": "import_83cb0f3f-6fd0-48d3-abff-a688085434e5",
     "content": "ท่านสามารถเลือกบริการอื่น ๆ เพิ่มเติม",
-    "createdAt": "2025-01-23T16:26:03",
-    "customerId": "870817-62",
+    "createdAt": "2024-07-31T12:30:47.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_70b5481e-9e0f-410c-83e3-668aeeb78982",
-    "content": "ติดต่อคุณหนุ่ยครับ",
-    "createdAt": "2025-01-23T16:26:22",
-    "customerId": "4832161-62",
+    "_id": "import_f77b9d92-982a-480c-9225-f0f078b4bdbf",
+    "content": "สินค้า ALNEX",
+    "createdAt": "2024-08-01T05:33:21.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_3baa5f9f-0f14-4171-997c-0d4de8711ff0",
-    "content": "สวัสดีครับคุณภาณุพงศ์ ผมหนุ่ยครับ\r\nขอแนบ QR Code สำหรับชำระค่าสำรวจ 3,000 บาทครับ",
-    "createdAt": "2025-01-23T16:53:10",
-    "customerId": "870817-62",
+    "_id": "import_a7833f5a-40ae-446b-afd3-fc661f78fc49",
+    "content": "this is flex message",
+    "createdAt": "2024-08-01T05:33:21.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_1217b099-ddad-480b-984d-58811acfd009",
-    "content": "You sent a photo.",
-    "createdAt": "2025-01-23T16:53:10",
-    "customerId": "870817-62",
+    "_id": "import_05f4208b-531f-41e6-a51b-2a6af0ba70a5",
+    "content": "ท่านสามารถเลือกบริการอื่น ๆ เพิ่มเติม",
+    "createdAt": "2024-08-01T05:33:21.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_182974b8-06fa-408f-8b31-e4e351b5fd90",
-    "content": "โดยรอบการสำรวจจะมี2ช่วงเวลา ได้แก่ 11:00 และ 14:00 ครับ\r\nช่วงสัปดาห์หน้าคุณภาณุพงศ์ สะดวกช่วงวันเวลาใดครับ",
-    "createdAt": "2025-01-23T16:54:46",
-    "customerId": "870817-62",
+    "_id": "import_165ec577-d58c-404e-9eb5-426c79510406",
+    "content": "สวัสดีครับ ผมหนุ่ยครับ\r\nคุณผู้หญิงสนใจสินค้าประเภทใดครับ\r\nสามารถสอบถามข้อมูลเพิ่มเติมได้เลยครับ",
+    "createdAt": "2024-10-01T07:21:03.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_f837078d-c5ac-48fd-967a-1ab16d1ae370",
-    "content": "โอเครครับ",
-    "createdAt": "2025-01-23T16:56:56",
-    "customerId": "4832161-62",
+    "_id": "import_2eda62a9-7c32-4803-b075-c01edf2228c7",
+    "content": "สินค้า ALNEX",
+    "createdAt": "2025-01-09T05:46:57.000Z",
+    "customerId": "1673268",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "982243",
+    "from3rdParty": false
   },
   {
-    "_id": "import_e390d523-a2fb-4543-a815-5a22c7afd4e1",
-    "content": "วันและเวลาเดี๋ยวให้น้องมอสนัดกับผู้รับเหมาที่อยู่หน้างานแล้วให้มอสแจ้งไปนะครับ จะได้ให้ผู้รับเหมาช่วยดูตำแหน่งและจุดเดินไฟด้วยครับ",
-    "createdAt": "2025-01-23T16:58:40",
-    "customerId": "4832161-62",
+    "_id": "import_56c4578f-85ad-4505-9327-7e3494097f9e",
+    "content": "this is flex message",
+    "createdAt": "2025-01-09T05:46:57.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_a2edf54c-0363-4538-a049-5a24dca1482e",
-    "content": "รับทราบครับ",
-    "createdAt": "2025-01-23T17:00:19",
-    "customerId": "870817-62",
+    "_id": "import_87a6d20e-8280-4a55-90d4-a47e722832a5",
+    "content": "ท่านสามารถเลือกบริการอื่น ๆ เพิ่มเติม",
+    "createdAt": "2025-01-09T05:46:58.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_d94ddae3-7b87-4552-88a6-2520e4feb29f",
-    "content": "You sent a photo.",
-    "createdAt": "2025-01-23T17:00:20",
-    "customerId": "4832161-62",
+    "_id": "import_1b7c41d3-823e-4cda-b7ab-bfabca6614aa",
+    "content": "GATE",
+    "createdAt": "2025-01-09T05:47:06.000Z",
+    "customerId": "1673268",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "982243",
+    "from3rdParty": false
   },
   {
-    "_id": "import_560993f5-a202-4816-80c3-5ad6c0f7acf8",
-    "content": "ขอบพระคุณครับ \r\nผมขอแนบภาพสีมาตรฐานเพิ่มเติมเพื่อให้คุณภาณุพงศ์เลือกชมด้วยนะครับ",
-    "createdAt": "2025-01-23T17:02:31",
-    "customerId": "870817-62",
+    "_id": "import_224b73e9-141a-4129-b377-153b66bca8eb",
+    "content": "this is flex message",
+    "createdAt": "2025-01-09T05:47:07.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_39feb427-b596-41ab-b68f-71b32d36c24c",
-    "content": "You sent a photo.",
-    "createdAt": "2025-01-23T17:02:31",
-    "customerId": "870817-62",
+    "_id": "import_214a0e78-36fb-434c-8d2f-71cee43c5d3a",
+    "content": "ท่านสามารถเลือกบริการอื่น ๆ เพิ่มเติม",
+    "createdAt": "2025-01-09T05:47:08.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_d888fc5b-04ff-437b-bd27-f84af08378c8",
-    "content": "ที่คุยกับทีมออกแบบ ดูไว้เป็น Sahara Grey ครับ",
-    "createdAt": "2025-01-23T17:08:14",
-    "customerId": "4832161-62",
+    "_id": "import_e16302a1-e9db-4500-b9ab-cb171a2166ff",
+    "content": "สามารถแจ้งขนาดและรูปแบบที่ต้องการติดตั้งได้เลยครับ เดียวผมช่วยประเมินราคาและแจ้งให้ทราบครับ",
+    "createdAt": "2025-01-09T06:22:14.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_9214c70a-2750-40fa-ba72-73ce5f73514b",
-    "content": "รับทราบครับ",
-    "createdAt": "2025-01-23T17:08:35",
-    "customerId": "870817-62",
+    "_id": "import_328dafc3-eaf5-4021-bacb-e5436c8cabaa",
+    "content": "ขอทราบข้อมูลเพิ่มเติมเพื่อประเมินราคาเบื้องต้นค่ะ\r\n\r\n1. สถานที่ติดตั้ง อยู่ที่จังหวัดใด\r\n\r\n2. รบกวนขอรูปภาพหน้าบ้าน หรือรูปภาพบริเวณที่ให้ติดตั้งสินค้า\r\n\r\n3. ขอขนาดความกว้าง และความสูงของประตูรั้วกี่เมตร",
+    "createdAt": "2025-02-26T05:49:29.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_5c715bf4-66a8-40f9-9b0a-c36d27667e69",
-    "content": "คุณภาณุพงศ์ เบื้องต้นที่ผมรับทราบข้อมูล สนใจการติดตั้งงานกันสาดถูกต้องไหมครับ\r\nซึ่งต้องการงานประตูรั้วด้วยถูกต้องไหมครับ",
-    "createdAt": "2025-01-23T17:21:31",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_ce40c5da-ac4b-48e3-9e43-9bf8082d3ef9",
-    "content": "เป็นกันสาดอย่างเดียวครับ",
-    "createdAt": "2025-01-23T18:06:37",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_ea84260a-4e37-4611-afca-a38a0a33866f",
-    "content": "ที่แจ้งว่าเดินสายไฟ หมายถึงคุณภาณุพงศ์ต้องการไฟใต้กันสาดด้วยถูกต้องไหมครับ",
-    "createdAt": "2025-01-23T18:09:48",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_bd1dc449-15c6-439d-9e35-f8c82b91ae48",
-    "content": "ถูกต้องครับ",
-    "createdAt": "2025-01-23T18:22:02",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_c26c03a1-30c7-439f-843d-95ad21a7de4f",
-    "content": "รับทราบครับ \r\n",
-    "createdAt": "2025-01-24T15:26:21",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_98797d14-30c3-4043-ba63-7322786a991e",
-    "content": "สวัสดีครับคุณภาณุพงศ์ \r\nผมรบกวนขอใบภพ.20 ของ บริษัท วัน เจเค จำกัด หน่อยครับ\r\n\r\n",
-    "createdAt": "2025-01-27T18:14:38",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_47d16d70-0f3b-45c3-96cd-309ebae09387",
-    "content": "ซึ่งวันเข้าสำรวจจะเป็นวันศุกร์ที่31/1/68 เวลา 13:00 น. ครับ",
-    "createdAt": "2025-01-27T18:15:15",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_f79a862b-7068-4b32-9525-40e2e05059a6",
-    "content": "You sent a file.",
-    "createdAt": "2025-01-27T19:36:20",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_16fad009-73c6-4800-a846-212b061d9868",
-    "content": "สวัสดีค่ะ คุณ Protehx \r\n\r\nขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\n\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-01-27T19:36:21",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_1a28a9e0-32b3-4591-948a-972876afae8d",
+    "_id": "import_4ffe210d-7706-4514-9ef6-cc1805d800ec",
     "content": "สวัสดีค่ะ คุณ {{contact.name}} \r\n\r\nขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\n\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-01-27T19:36:22",
-    "customerId": "870817-62",
+    "createdAt": "2025-02-28T12:15:34.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_3185f96e-4b07-4619-9982-3f8755cc1c8b",
-    "content": "โอเครครับ วันศุกร์น้องมอสจะคอยประสานให้นะครับ",
-    "createdAt": "2025-01-27T19:37:28",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_b14dcf55-f86c-4c5f-819d-ec51dff4077a",
+    "_id": "import_5ff5748d-e349-405e-bbb3-f985e6d5d7cf",
     "content": "สวัสดีค่ะ คุณ {{contact.name}} \r\n\r\nขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\n\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-01-27T19:37:29",
-    "customerId": "870817-62",
+    "createdAt": "2025-02-28T12:22:07.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_5ae24964-16f0-40b6-bee3-8a59b56438d4",
-    "content": "ขอบคุณครับ",
-    "createdAt": "2025-01-28T12:07:54",
-    "customerId": "870817-62",
+    "_id": "import_d397ba58-cdc8-4d5e-a43c-88f2c696146d",
+    "content": "สวัสดีค่ะ คุณ {{contact.name}} \r\n\r\nขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\n\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
+    "createdAt": "2025-02-28T12:28:16.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_e6a2d274-7d99-45bf-b933-f069e0c00e3f",
-    "content": "สวัสดีครับ คุณภาณุพงศ์ ทีมงานได้จัดส่งใบเสนอราคาให้ในช่องทางอีเมลเรียบร้อยแล้วนะครับ\r\nผมขอแนบใบเสนอราคาให้ในช่องทางนี้ด้วยนะครับ",
-    "createdAt": "2025-02-28T18:22:31",
-    "customerId": "870817-62",
+    "_id": "import_8e67a12f-01a8-4d23-8789-4a0db49e3729",
+    "content": "สวัสดีค่ะ คุณ {{contact.name}} \r\n\r\nขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\n\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
+    "createdAt": "2025-03-05T12:46:34.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_433b0c00-c6f2-408f-ae7e-feb0e90b856a",
-    "content": "https://files.omoo.co/msg-content/15/81c219ea0ff30bd40f6e8852ce87b292db8684c89982a8257267f7f0420d1575.pdf",
-    "createdAt": "2025-02-28T18:22:31",
-    "customerId": "870817-62",
+    "_id": "import_91127099-ddaa-417a-8486-c998870a3168",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:03:50.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_8a631729-4526-45cd-85f4-9e18638cfd94",
-    "content": "สวัสดีครับ คุณภาณุพงศ์ ทีมงานได้จัดส่งใบเสนอราคาให้ในช่องทางอีเมลเรียบร้อยแล้วนะครับ\r\nผมขอแนบใบเสนอราคาให้ในช่องทางนี้ด้วยนะครับ",
-    "createdAt": "2025-02-28T18:22:31",
-    "customerId": "870817-62",
+    "_id": "import_0c0bcc40-a500-40e1-886c-924a5f08a811",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:04:28.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_aa3db34a-38fc-4a81-aed6-babda1122583",
-    "content": "https://files.omoo.co/msg-content/15/81c219ea0ff30bd40f6e8852ce87b292db8684c89982a8257267f7f0420d1575.pdf",
-    "createdAt": "2025-02-28T18:22:31",
-    "customerId": "870817-62",
+    "_id": "import_39873189-e6ad-4f33-b685-b53129ef99a7",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:04:57.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_a09f8731-1192-47fe-b7d5-98ecbddf3eff",
-    "content": "ยินดีครับผม",
-    "createdAt": "2025-02-28T18:23:40",
-    "customerId": "4832161-62",
+    "_id": "import_c28bb9bc-0e56-46ed-b6b1-dce81a08d42f",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:05:22.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_f86e2c6b-c735-47cb-b809-1c6398e3516a",
-    "content": "You sent a photo.",
-    "createdAt": "2025-02-28T18:26:03",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_322a9922-400a-4772-aff1-89d094203c49",
-    "content": "You sent a photo.",
-    "createdAt": "2025-02-28T18:26:03",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_82a9de48-67b3-4279-8ef3-60167ffb321e",
-    "content": "ซึ่งซี่ระแนงจะเป็นรูปแบบนี้ครับ",
-    "createdAt": "2025-02-28T18:26:23",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_95dc5212-c061-4687-9b13-c42a22e6ae75",
-    "content": "สวัสดีครับคุณภาณุพงศ์",
-    "createdAt": "2025-04-18T11:41:36",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_48cc7809-55fd-4775-921c-73f405f41b4e",
-    "content": "ตามที่คุณภาณุพงศ์แจ้งว่าหน้างานยังมีการรีโนเวท\r\nแต่เนื่องด้วยการทำงานของ ALNEX การเขียนแบบและผลิตจะใช้เวลาประมาณ 45 วันทำการ\r\nผมจึงต้องขอแจ้งข้อมูลส่วนนี้ให้ทราบ เพื่อให้สามารถส่งมอบงานได้ตรงกับกำหนดการเข้าอยู่ของคุณภาณุพงศ์ครับ",
-    "createdAt": "2025-04-18T11:46:07",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_d608c26d-20a9-498c-a766-2a4146944df8",
-    "content": "You sent a photo.",
-    "createdAt": "2025-04-18T11:46:07",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_dcb89516-7fdc-4c3a-b40a-eaaa0f88f853",
-    "content": "โอเครครับ",
-    "createdAt": "2025-04-18T18:40:30",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_92fa97c3-b973-4837-bb81-4c348c6dcb04",
-    "content": "รบกวนขอใบเสนอราคามัดจำหน่อยครับ",
-    "createdAt": "2025-04-18T18:41:00",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_11e4e31d-6b5e-4790-8ed7-a3788db8a7e4",
-    "content": "สักครู่นะครับ",
-    "createdAt": "2025-04-18T18:45:06",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_f407cad1-648b-4718-9a58-6b7090c8018c",
-    "content": "https://files.omoo.co/msg-content/15/81c219ea0ff30bd40f6e8852ce87b292db8684c89982a8257267f7f0420d1575.pdf",
-    "createdAt": "2025-04-18T18:46:41",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_4290f761-d0bd-4818-a13f-85ac4c4dec5f",
-    "content": "กันสาดระแนงรุ่น Duplex ขนาดกว้าง 12.634 x ยื่นยาว 2.600 เมตร ซี่ระแนง Deco ขนาด 35 x 50 มม. ระยะห่าง Gap 8 ซม. ครับ",
-    "createdAt": "2025-04-18T18:47:26",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_3d0a91d0-b9e7-4213-939a-3a54ebce39a7",
-    "content": "มีข้อมูลส่วนใดต้องการให้ผมช่วยอธิบายเพิ่มเติมไหมครับคุณภาณุพงศ์",
-    "createdAt": "2025-04-21T16:39:49",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_cbb4d621-527a-4088-b131-c58e2606fe74",
-    "content": "ไม่มีครับ เด่วจัดซื้อโอนเรียบร้อยแล้วผมแจ้งนะครับ",
-    "createdAt": "2025-04-21T16:56:51",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_bb2673d8-e079-43b1-9234-ed70ec31e09a",
-    "content": "รับทราบครับคุณภาณุพงศ์ \r\nขอบพระคุณครับ",
-    "createdAt": "2025-04-21T18:06:03",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_4e527a3a-0d4a-4948-9c2c-f193f31a3011",
-    "content": "สวัสดีครับคุณเต้\r\nผมขออนุญาตติดตามสถานะงานอัพเดตหน่อยนะครับ\r\nพอจะแจ้งกำหนดวันที่ฝ่ายจัดซื้อจะดำเนินการโอนชำระมัดจำได้ไหมครับคุณเต้",
-    "createdAt": "2025-06-26T18:47:18",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_5731a3da-d034-4759-9504-f9868c96b254",
-    "content": "ประมาณสิ้นเดือนนี้ครับ ตอนนี้หน้างาน 80% แล้วครับ",
-    "createdAt": "2025-06-26T19:08:44",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_4f74047d-f99c-43a5-8151-df06295eea39",
+    "_id": "import_347d46ac-cfdc-49fe-8879-17a063858325",
     "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-26T19:08:45",
-    "customerId": "870817-62",
+    "createdAt": "2025-05-16T13:16:08.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_346168bb-5fb5-4b1f-9834-7fb05ccdcfe1",
-    "content": "ขอบคุณครับคุณเต้",
-    "createdAt": "2025-06-26T19:11:06",
-    "customerId": null,
+    "_id": "import_c4fbb1f4-e441-44fd-93e0-01a5e0ed1a7d",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:16:08.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_caaf469e-e67f-4deb-bb54-75d853d18e7a",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-30T18:15:41",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_204688c5-02e4-4d6f-9d2f-35d1cdaa1ac8",
-    "content": "เรียบร้อยครับคุณหนุ่ย",
-    "createdAt": "2025-06-30T18:16:23",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_27526397-def5-47ae-9b64-57789197cf38",
-    "content": "ขอบพระคุณครับ",
-    "createdAt": "2025-06-30T18:20:44",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_4d370f32-56fe-4332-9d69-b8b47fc0419a",
-    "content": "ผมแจ้งทีมงานให้เริ่มดำเนินการเขียนแบบในระบบแล้วครับ",
-    "createdAt": "2025-06-30T18:21:15",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_83f40c4f-0baa-48fb-9065-fc4c7ecf27fd",
-    "content": "โอเครครับ ช่างหน้างานต้องเตรียมงานระบบหรืออะไรเพิ่มเติมแจ้งผมได้เลยนะครับ",
-    "createdAt": "2025-06-30T18:25:48",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_e2027b1b-e54e-4c46-b5ab-0f5c9538024f",
-    "content": "รับทราบครับคุณภาณุพงศ์",
-    "createdAt": "2025-06-30T18:38:07",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_62dde82b-87c3-4935-9d62-4aa6f222a534",
-    "content": "สวัสดีครับคุณเต้ผมรบกวนสอบถามเพิ่มเติมนะครับว่า\r\nหน้างานต้องการให้เข้าติดตั้งช่วงเดือนสิงหาคมหรือกันยายน\r\nตั้งแต่ช่วงวันใดครับ",
-    "createdAt": "2025-07-21T13:29:30",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_96c9ea40-5c12-40e5-bc99-e33922512f37",
-    "content": "ตอนนี้หน้างานพร้อมให้เข้าติดตั้งแล้วครับคุณหนุ่ย สามารถระบุวันเข้าติดตั้งกับผมได้เลยครับ ยกเว้นเสาร์และอาทิตย์ครับ",
-    "createdAt": "2025-07-21T14:10:58",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_814dc89f-84b3-4812-873d-7bf55270cfea",
-    "content": "รับทราบครับคุณเต้ \r\nผมแจ้งข้อมูลกับทีมงานไว้แล้วครับ",
-    "createdAt": "2025-07-22T11:37:56",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_5c53db0d-a525-4708-ab7e-6aaf717c39bb",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T11:14:11",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_b25e3080-73d4-406f-b491-d380ed554de1",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T14:12:41",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_b64108a2-8310-48dc-846f-fbb69784bdd2",
-    "content": "ถูกต้องไหมครับ",
-    "createdAt": "2025-07-30T14:12:55",
-    "customerId": "4832161-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_9a7d23da-da69-4f39-96d5-6b0a1c6c3cb9",
-    "content": "สวัสดีค่ะ คุณลูกค้าสนใจสินค้าประเภทใดของ ALNEX คะ?",
-    "createdAt": "2025-06-04T20:58:51",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_1484605c-357b-4c00-bf35-b62ec02e0ae0",
+    "_id": "import_8f744a6b-3a03-4a59-b926-163f397fef24",
     "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-04T20:58:51",
-    "customerId": "870817-62",
+    "createdAt": "2025-05-16T13:16:38.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_7ff44b91-ce77-44dc-86fa-93407a86f476",
-    "content": "สนใจประตูรั้วค่ะ ถ้าเปิดแล้วติดต่อกลับด้วยนะคะ",
-    "createdAt": "2025-06-04T20:59:08",
-    "customerId": "7547-62",
+    "_id": "import_35a8cc35-38ec-436b-87c8-c5f03874854d",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:22:37.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_ce14d9e0-fd23-49f2-b3de-673ac6c94c2e",
+    "_id": "import_bbd7f5fb-87f5-45be-b0bf-73e170424bb2",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:27:18.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_2fdda505-4eef-4d95-86e0-25d23be0f940",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:31:35.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_748c7b91-2ff1-4024-bff8-6847e4fb697e",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:43:41.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_784aef14-99ba-4abe-ad75-97fc77b5a626",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:47:28.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_2de1b52e-fdfd-41d4-97ff-55d6a34c02fa",
+    "content": "carousel",
+    "createdAt": "2025-05-16T13:51:11.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_a1429772-ec04-4a71-8f03-ad0f38c36776",
+    "content": "carousel",
+    "createdAt": "2025-06-13T09:01:06.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_1efebdff-a3ca-4bd8-b4ef-82ce0adb2037",
+    "content": "เจ้าหน้าที่ฝ่ายขายจะเป็นผู้ประเมินราคา และจะติดต่อหาท่านในวันทำการจันทร์ - เสาร์ 8.30-17.00 น.\r\n\r\nกรุณาเตรียมข้อมูล\r\n\r\n1. สินค้าที่ท่านต้องการ\r\n\r\n2. รูปภาพหน้างานที่จะติดตั้ง พร้อมขนาดกว้าง ยาว โดยประมาณ\r\n\r\n3. แบบก่อสร้าง (ถ้ามี)",
+    "createdAt": "2025-06-13T09:01:15.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_e72cf690-0cb4-49cc-8371-03841b9eb59e",
+    "content": "carousel",
+    "createdAt": "2025-06-17T09:29:37.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_27e3c346-3888-4306-b2e3-741dc8e4f2c7",
     "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-04T20:59:09",
-    "customerId": "870817-62",
+    "createdAt": "2025-06-17T13:43:55.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_0f43df7e-a7c5-4fe7-80f3-502bdf878280",
-    "content": "สวัสดีคะ คุณผู้หญิง ",
-    "createdAt": "2025-06-05T12:11:16",
-    "customerId": "239921-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_14f66b16-6d84-4907-a69e-abf5461df273",
-    "content": "ALNEX ยินดีให้บริการคะ ",
-    "createdAt": "2025-06-05T12:11:32",
-    "customerId": "239921-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_92a02e7a-b574-4a91-adbb-2ec39b353b6d",
-    "content": "สวัสดีคะ",
-    "createdAt": "2025-06-24T11:39:33",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_cd3a5b73-9fa3-4170-8ca6-f00bfe47c8b7",
-    "content": "สนใจประตูรั้วคะ",
-    "createdAt": "2025-06-24T11:39:51",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_3e207972-418a-41e6-8208-ab503e8d7902",
-    "content": "รบกวนให้เซลติดต่อ หาพี่ ได้ไหมคะ\r\n089 - 7459878",
-    "createdAt": "2025-06-24T11:49:16",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_e9af05e3-69da-4119-889e-12db8eed11c2",
-    "content": "ได้ค่ะ เดี๋ยวแอดมินแจ้งให้เซลติดต่อกลับนะคะ",
-    "createdAt": "2025-06-24T11:57:25",
-    "customerId": "239921-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_309e9985-240c-4222-9bf3-b91fa9df867f",
-    "content": "ขอบคุณมากคะ",
-    "createdAt": "2025-06-24T12:00:49",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_37677a6c-8027-49d4-862b-d1af20b87339",
-    "content": "สวัสดีค่ะแจ๊สนะคะ ส่งแบบให้แจ๊สทางนี้ได้เลยนะคะ",
-    "createdAt": "2025-06-24T12:05:34",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_cc0ab0ff-e171-453e-aba7-b8ecddc0e671",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:08:30",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_ab63e56f-873c-4f9d-a4dc-048ff74a93a1",
-    "content": "สีเขียว คือ ที่เราจะทำประตู ที่จะเข้าบ้านคะ",
-    "createdAt": "2025-06-24T12:08:55",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_7fbc20c6-de22-421f-aad6-53dd70596291",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:10:33",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_38e99d41-7119-4f11-aec3-0fde3cf112b0",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:13:35",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_de9f7abd-ee7b-47c0-82b8-88130fd2f9bd",
-    "content": "บ้านที่จะเข้าคือ หัวมุม ที่ทำสีแดงๆนะคะ",
-    "createdAt": "2025-06-24T12:14:14",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_6001a132-073f-4ddc-a242-0aa4c04bba1a",
-    "content": "จากที่ดูเบื้องต้นอันนี้อาจจะต้องเป็น ประตูบานเลื่อนโค้งค่ะ",
-    "createdAt": "2025-06-24T12:27:56",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_96f97fb8-d670-4dd3-ba8c-19188d6d036b",
-    "content": "เพราะเป็นพื้นที่เอียงช่องเปิดเฉียงค่ะ",
-    "createdAt": "2025-06-24T12:28:16",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_0fbda99a-2f84-44ae-b8f1-cb26076f1391",
-    "content": "ช่องเปิดประมาณ 5-6 ม.สูง 2.5ม.นะคะ",
-    "createdAt": "2025-06-24T12:29:02",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_4ba35225-d29b-4d7c-a61a-f7e08b7b8d6e",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:36:23",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_f4158ac3-35df-4f0c-b23c-3a1b90ef27bf",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:36:23",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_33044643-7754-4f45-8a03-b1b56c3c0c17",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:36:24",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_4718a0d4-436c-4076-9b2d-650fb64d4d2a",
-    "content": "ตัวอย่างประตูบานโค้งค่ะ",
-    "createdAt": "2025-06-24T12:36:31",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_774fbb3b-8302-419c-a8d0-591c1c91f363",
-    "content": "เราทำช่องบานเปิดให้แม่บ้าน เปิดออกไปได้ ไหมคะ",
-    "createdAt": "2025-06-24T12:42:05",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_d6c70397-0a24-4c3b-9dfb-f3699ad850ed",
-    "content": "จากประตูใหญ่ ของเรา",
-    "createdAt": "2025-06-24T12:42:11",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_1f69fc29-6bbb-44e9-945d-2d157e9eb83e",
-    "content": "ถ้าพี่ต้องการ นัดมาดูหน้างาน  ได้ไหมคะ",
-    "createdAt": "2025-06-24T12:42:45",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_6f2e8dbe-4db9-4dff-80f8-dd8d9a59bdcc",
-    "content": "สามารถทำประตูบานเปิดเพิ่มได้ค่ะ จะเพิ่มในบานหรือแยกบานจากบานเลื่อนก็ได้ค่ะ",
-    "createdAt": "2025-06-24T12:43:35",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_f2d5d25a-8c3e-46c5-93bd-a704b183eafc",
-    "content": "ทางเราจะมีเรื่องค่าเข้าสำรวจ 3000 บาทค่ะ ซึ่งจะหักลดตอนสั่งซื้อสินค้าค่ะ",
-    "createdAt": "2025-06-24T12:44:06",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_5ec460f5-b989-4620-8a75-220f1b1ebdf9",
-    "content": "ได้คะ ",
-    "createdAt": "2025-06-24T12:44:16",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_e4875ebe-c6af-483a-980c-a63553830e28",
-    "content": "แจ๊สอาจจะขอประเมินราคาโดยประมาณเพื่อจะได้ทราบงบคร่าวๆก่อนนะคะ",
-    "createdAt": "2025-06-24T12:44:44",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_104f2920-7d1a-4d9b-9859-30d056d26f56",
-    "content": "ได้เลยคะ คุณแจ๊ส",
-    "createdAt": "2025-06-24T12:44:57",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_efb7f7df-ddc6-4e7e-9eb6-a0a6275ac14c",
-    "content": "อลูมิเนียมมีให้เลือก หลายแบบไหมคะ",
-    "createdAt": "2025-06-24T12:45:21",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_45f887e7-c05a-4cf3-913d-b1e3a2f78ffc",
-    "content": "หรือมีแบบเดียว หมายถึงทำได้หลาย ลาย ไหมคะ",
-    "createdAt": "2025-06-24T12:45:35",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_47629696-c762-41a5-bbbe-b238f7a827e1",
-    "content": "ถ้าลายมาตรฐานจะเป็นลายซี่ตรงค่ะ ราคาแตกต่างกันหรือว่าจะออกแบบซี่เองได้เหมือนกันค่ะ",
-    "createdAt": "2025-06-24T12:46:31",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_d19c9f8f-a5a7-4dc2-9dbb-04ecdb53d735",
-    "content": "คุณแจ๊ส เสนอเป็นราคามาตราฐานมาก่อนได้คะ ",
-    "createdAt": "2025-06-24T12:46:50",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_d2e9ca1e-ea2e-4c9a-b5ed-533e834198ff",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:47:02",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_865c6b03-fac2-47b9-8b81-1fe50349d177",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T12:47:02",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_ac182584-abb2-42d0-82dc-b8fa3c5dbd4e",
-    "content": "ลายมาตรฐานค่ะ",
-    "createdAt": "2025-06-24T12:47:12",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_9a5b9d97-3a8b-4156-bdcb-646978644d53",
-    "content": "รับทราบคะ",
-    "createdAt": "2025-06-24T12:48:30",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_633347b5-62f1-4f65-a8db-094bdd831832",
-    "content": "เสนอราคามาตราฐานมาก่อนได้เลยคะคุณแจ๊ส",
-    "createdAt": "2025-06-24T12:48:43",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_deb77c45-3b79-411e-afdf-70d80d9638f4",
-    "content": "ได้ค่ะ",
-    "createdAt": "2025-06-24T12:51:49",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_10114fdb-b67b-4ccb-a1fd-7cfd8eab7b3f",
-    "content": "ประตูบานเลื่อนโค้ง ความกว้าง 6 ม. สูง 2.5 ม. (เพิ่มขาค้ำประคองบาน)\r\nราคารุ่นมาตรฐาน ซี่ 1\"x2\" Gap 7.5 Cm. สีมาตรฐาน \r\nราคาประมาณ 330,000 บาท \r\n*ราคาไม่รวมมอเตอร์\r\n*ราคาไม่รวมประตูบานเล็กในบาน\r\nมอเตอร์ราคาประมาณ 40000 บาทค่ะ",
-    "createdAt": "2025-06-24T13:00:48",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_3584fdda-faae-41f0-b94c-b54580180a0c",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T13:01:13",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_ab65c602-8db1-467c-b2c2-f3b325bd46bb",
-    "content": "สีมาตรฐานที่ทางเรามีให้เลือกค่ะ และมีสีลายไม้ ราคา+อีกประมาณ 20%ค่ะ",
-    "createdAt": "2025-06-24T13:02:31",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_c38e0189-a8b3-401a-81d7-b20e29e6b7ad",
-    "content": "Ok ka ",
-    "createdAt": "2025-06-24T13:57:54",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_c244c426-ffaf-4dd2-b073-589bf0a5e036",
-    "content": "ทำใบมัดจำ ดูหน้างานได้เลยนะคเ",
-    "createdAt": "2025-06-24T13:58:11",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_bdb774d7-5c1a-4323-8ee3-7181774a4d30",
-    "content": "รับทราบค่ะ",
-    "createdAt": "2025-06-24T14:00:18",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_c8aab6ee-4fee-4d19-b3ee-fdae2be53430",
-    "content": "แจ๊สรบกวนขอข้อมูลเพิ่มเติมดังนี้ค่ะ\r\n\r\n1.ชื่อ-นามสกุล และที่อยู่ (ในนามบุคคล หรือชื่อบริษัท)\r\n(เพื่อเปิดใบเสนอราคา ใบเสร็จรับเงิน และใบกำกับภาษี)\r\n***ภายหลังการชำระเงินจะไม่สามารถเปลี่ยนแปลงชื่อในเอกสารภายหลังได้***\r\n\r\n2.E-mail (เพื่อส่งใบเสนอราคา)\r\n\r\n3.ที่อยู่ สำหรับการติดตั้งสินค้า และขอ Location แบบ Google Map\r\n\r\n4.ขอรูปภาพหน้าบ้านและรูปภาพบริเวณที่ให้ติดตั้งสินค้า\r\n\r\n5.ชื่อ-นามสกุล และเบอร์ติดต่อ (สำหรับติดต่อตอนสำรวจหน้างาน)",
-    "createdAt": "2025-06-24T15:30:11",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_c447fc97-a27f-47b5-8ef1-fa355a8a41ee",
-    "content": "สักครู่นะคะ เด่วพี่ส่งให้คะ",
-    "createdAt": "2025-06-24T15:55:16",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_5ee9ca7f-38f5-4abc-ac55-7b2233ff7d32",
-    "content": "ค่ะ",
-    "createdAt": "2025-06-24T16:17:15",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_2d9afbf4-5768-4525-a050-05b56c40e782",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-24T23:14:00",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_d9e551b3-230f-467e-ab69-e47cfa3f050b",
+    "_id": "import_69e159fb-b4ca-40aa-857a-adbe7f3b03ce",
     "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-24T23:14:03",
-    "customerId": "870817-62",
+    "createdAt": "2025-06-17T13:44:10.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_3fd7066c-febf-41e1-8c37-618e92b8a81f",
-    "content": "ชื่อเปิดบิล",
-    "createdAt": "2025-06-24T23:14:05",
-    "customerId": "7547-62",
+    "_id": "import_d67b73c2-1cf2-4e01-8b57-170814d0a059",
+    "content": "carousel",
+    "createdAt": "2025-06-17T13:44:11.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_a62a39a9-4efd-4224-82c6-00a40bbc207f",
+    "_id": "import_3af64832-d2e1-4054-8bc1-793f28e99126",
+    "content": "carousel",
+    "createdAt": "2025-06-17T13:49:54.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_1c5d95ef-d0d6-43eb-a6cf-75cbdecb8781",
     "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-24T23:14:07",
-    "customerId": "870817-62",
+    "createdAt": "2025-06-17T13:49:55.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_a5c8b859-131a-409b-9ebf-afba42288855",
-    "content": "Whiteblue-go@hotmail.com",
-    "createdAt": "2025-06-24T23:14:29",
-    "customerId": "7547-62",
+    "_id": "import_4ae01e93-4f9c-43af-8afd-006fbfa1aea9",
+    "content": "carousel",
+    "createdAt": "2025-06-17T13:49:55.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_5b792656-0a4c-40fe-9b7a-5761b2dce402",
+    "_id": "import_ce4e8261-6d3c-4a93-97f2-5e462b336826",
+    "content": "CANOPY Product\r\n\r\n",
+    "createdAt": "2025-06-17T14:01:48.000Z",
+    "customerId": "1673268",
+    "userId": null,
+    "conversationId": "982243",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_e09ff2cb-d123-429a-bfa1-57306263aaaf",
+    "content": "carousel",
+    "createdAt": "2025-06-17T14:01:49.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_f596b3c3-a58d-4bbd-9a43-5a7491ebe237",
     "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-24T23:14:31",
-    "customerId": "870817-62",
+    "createdAt": "2025-06-17T14:01:50.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_bcf412f8-ae77-4f01-a63b-0b29ab517ce0",
-    "content": "https://maps.app.goo.gl/csmxz9jH7yeSxBpT8?g_st=al",
-    "createdAt": "2025-06-24T23:16:58",
-    "customerId": "7547-62",
+    "_id": "import_49008a70-4b38-479c-9ae2-0dc4fb056301",
+    "content": "คุณลูกค้าสนใจสินค้าประเภทใดสามารถสอบถามได้นะครับ ",
+    "createdAt": "2025-06-18T03:52:36.000Z",
+    "customerId": "2458221",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "1479112",
+    "from3rdParty": false
   },
   {
-    "_id": "import_d3d3b854-ca88-4f36-ba34-be0d6a61cff6",
+    "_id": "import_b251d9cc-b9c3-45c0-b8ca-5b6189da121d",
+    "content": "carousel",
+    "createdAt": "2025-06-18T05:18:42.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_42d0c0bb-58e9-45d9-895f-55f395772d5b",
+    "content": "carousel",
+    "createdAt": "2025-06-18T05:18:57.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_281c28f5-69b5-4b42-b240-01b65688df8f",
+    "content": "carousel",
+    "createdAt": "2025-06-18T05:19:19.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_d92992ff-b682-48db-8982-aa0fea525265",
+    "content": "carousel",
+    "createdAt": "2025-06-18T05:19:37.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_6ed70275-26ef-4ed4-87a2-d9fa045e04eb",
+    "content": "carousel",
+    "createdAt": "2025-06-18T05:19:55.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_c2816d17-ee9d-4347-9c81-8358e770fb70",
+    "content": "carousel",
+    "createdAt": "2025-07-03T08:44:37.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_4e9550f9-eb09-4e13-84ff-0a30612d7618",
+    "content": "carousel",
+    "createdAt": "2025-07-03T08:48:53.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_9b9f7810-4640-4b18-88cb-b7dd63ea120c",
+    "content": "carousel",
+    "createdAt": "2025-07-03T08:50:02.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_9f9aa9cb-0a27-448e-b172-a6bfd71b934f",
+    "content": "carousel",
+    "createdAt": "2025-07-03T08:59:35.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_21bdbda9-03d1-42ba-b15f-113fb2abb4f8",
+    "content": "carousel",
+    "createdAt": "2025-07-03T09:06:42.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_5b276b8f-a729-440e-bd88-0e824bb213dc",
+    "content": "ALNEX ขออภัยสำหรับความไม่สะดวกที่เกิดขึ้นจากสินค้าของเรา ท่านสามารถแจ้งรายละเอียดเพิ่ม ดังนี้ \r\n1. ชื่อ-นามสกุล และเบอร์โทรศัพท์ ที่ลงทะเบียนไว้ในระบบ \r\n2. สินค้าและปัญหาการชำรุดเสียหาย \r\n3. แนบรูปและวิดิโอของสินค้าที่ต้องการซ่อม ทีมบริการหลังการขายจะติดต่อกลับท่านโดยเร็วที่สุด",
+    "createdAt": "2025-07-03T09:07:08.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_a4eb64d6-12a7-4561-a6f8-ec5ca6e6bc29",
+    "content": "รบกวนขอข้อมูลเพื่อเตรียมการนัดสำรวจ ดังนี้ค่ะ\r\n\r\n1. สินค้าและรูปแบบที่ท่านสนใจ\r\n\r\n2. รูปภาพบริเวณที่จะติดตั้งสินค้า\r\n\r\n3. ที่อยู่ สำหรับการติดตั้งสินค้า และขอ Location แบบ Google Map\r\n\r\n4. ชื่อและเบอร์โทรติดต่อหน้างาน (สำหรับติดต่อตอนสำรวจหน้างาน)",
+    "createdAt": "2025-07-03T09:07:10.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_e5083d7e-e016-4fa4-9890-f41be303f430",
+    "content": "carousel",
+    "createdAt": "2025-07-03T09:07:15.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_e1c8a32d-6471-4a96-867d-0b6450e06dfd",
+    "content": "carousel",
+    "createdAt": "2025-07-03T09:07:20.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_c0f587cc-7088-494e-bc8e-0c19ce89d050",
+    "content": "carousel",
+    "createdAt": "2025-07-03T09:09:05.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_15334014-ac87-4236-be16-b719b56b1599",
+    "content": "carousel",
+    "createdAt": "2025-07-03T09:09:12.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_81fd04e7-b189-46f5-9d6b-df8a58f39fa6",
+    "content": "ALNEX ขออภัยสำหรับความไม่สะดวกที่เกิดขึ้นจากสินค้าของเรา ท่านสามารถแจ้งรายละเอียดเพิ่ม ดังนี้ \r\n1. ชื่อ-นามสกุล และเบอร์โทรศัพท์ ที่ลงทะเบียนไว้ในระบบ \r\n2. สินค้าและปัญหาการชำรุดเสียหาย \r\n3. แนบรูปและวิดิโอของสินค้าที่ต้องการซ่อม ทีมบริการหลังการขายจะติดต่อกลับท่านโดยเร็วที่สุด",
+    "createdAt": "2025-07-03T09:31:41.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_1b0dc9ce-6fe3-4a34-a16d-8748b0c624de",
+    "content": "ALNEX ขออภัยสำหรับความไม่สะดวกที่เกิดขึ้นจากสินค้าของเรา ท่านสามารถแจ้งรายละเอียดเพิ่ม ดังนี้ \r\n1. ชื่อ-นามสกุล และเบอร์โทรศัพท์ ที่ลงทะเบียนไว้ในระบบ \r\n2. สินค้าและปัญหาการชำรุดเสียหาย \r\n3. แนบรูปและวิดิโอของสินค้าที่ต้องการซ่อม ทีมบริการหลังการขายจะติดต่อกลับท่านโดยเร็วที่สุด",
+    "createdAt": "2025-07-03T09:32:26.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_18f32214-d40a-452c-a7e2-03aa238027b5",
+    "content": "ALNEX ขออภัยสำหรับความไม่สะดวกที่เกิดขึ้นจากสินค้าของเรา ท่านสามารถแจ้งรายละเอียดเพิ่ม ดังนี้ \r\n1. ชื่อ-นามสกุล และเบอร์โทรศัพท์ ที่ลงทะเบียนไว้ในระบบ \r\n2. สินค้าและปัญหาการชำรุดเสียหาย \r\n3. แนบรูปและวิดิโอของสินค้าที่ต้องการซ่อม ทีมบริการหลังการขายจะติดต่อกลับท่านโดยเร็วที่สุด",
+    "createdAt": "2025-07-03T09:41:01.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_755a6bb3-fb96-441c-b839-dee8058801ca",
+    "content": "ALNEX ขออภัยสำหรับความไม่สะดวกที่เกิดขึ้นจากสินค้าของเรา ท่านสามารถแจ้งรายละเอียดเพิ่ม ดังนี้ \r\n1. ชื่อ-นามสกุล และเบอร์โทรศัพท์ ที่ลงทะเบียนไว้ในระบบ \r\n2. สินค้าและปัญหาการชำรุดเสียหาย \r\n3. แนบรูปและวิดิโอของสินค้าที่ต้องการซ่อม ทีมบริการหลังการขายจะติดต่อกลับท่านโดยเร็วที่สุด",
+    "createdAt": "2025-07-03T09:56:32.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_f702e70c-5d01-4851-b32c-4461817b4319",
+    "content": "carousel",
+    "createdAt": "2025-07-03T10:39:22.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_47e6952f-c812-4adf-9959-bd7e75b0001e",
+    "content": "carousel",
+    "createdAt": "2025-07-03T10:39:32.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_57a20870-6799-46d1-a755-659aca8dbd54",
+    "content": "carousel",
+    "createdAt": "2025-07-03T10:39:37.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_ea3ecdab-703d-44dd-8e0b-772cb8bd4066",
+    "content": "รบกวนขอข้อมูลเพื่อเตรียมการนัดสำรวจ ดังนี้ค่ะ\r\n\r\n1. สินค้าและรูปแบบที่ท่านสนใจ\r\n\r\n2. รูปภาพบริเวณที่จะติดตั้งสินค้า\r\n\r\n3. ที่อยู่ สำหรับการติดตั้งสินค้า และขอ Location แบบ Google Map\r\n\r\n4. ชื่อและเบอร์โทรติดต่อหน้างาน (สำหรับติดต่อตอนสำรวจหน้างาน)",
+    "createdAt": "2025-07-03T10:39:40.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_d3535b75-cce0-4622-a14e-a03f4f992af7",
+    "content": "carousel",
+    "createdAt": "2025-07-03T10:40:18.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_2a8d0fe5-a526-49d1-b243-e51e4685b620",
+    "content": "ALNEX ขออภัยสำหรับความไม่สะดวกที่เกิดขึ้นจากสินค้าของเรา ท่านสามารถแจ้งรายละเอียดเพิ่ม ดังนี้ \r\n1. ชื่อ-นามสกุล และเบอร์โทรศัพท์ ที่ลงทะเบียนไว้ในระบบ \r\n2. สินค้าและปัญหาการชำรุดเสียหาย \r\n3. แนบรูปและวิดิโอของสินค้าที่ต้องการซ่อม ทีมบริการหลังการขายจะติดต่อกลับท่านโดยเร็วที่สุด",
+    "createdAt": "2025-07-03T10:40:22.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_8a1b08fe-7ea8-451d-bec8-e35cfdff8ba5",
+    "content": "ALNEX ขออภัยสำหรับความไม่สะดวกที่เกิดขึ้นจากสินค้าของเรา ท่านสามารถแจ้งรายละเอียดเพิ่ม ดังนี้ \r\n1. ชื่อ-นามสกุล และเบอร์โทรศัพท์ ที่ลงทะเบียนไว้ในระบบ \r\n2. สินค้าและปัญหาการชำรุดเสียหาย \r\n3. แนบรูปและวิดิโอของสินค้าที่ต้องการซ่อม ทีมบริการหลังการขายจะติดต่อกลับท่านโดยเร็วที่สุด",
+    "createdAt": "2025-07-03T12:57:10.000Z",
+    "customerId": "113213",
+    "userId": null,
+    "conversationId": "94467",
+    "from3rdParty": false
+  },
+  {
+    "_id": "import_31682889-b0ad-45b0-80cd-6bfb8a47eb6c",
     "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-24T23:16:59",
-    "customerId": "870817-62",
+    "createdAt": "2025-07-03T12:57:11.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
+    "conversationId": "94467",
+    "from3rdParty": false
   },
   {
-    "_id": "import_72e5710b-c6c6-485e-a401-5cab42fea7a0",
-    "content": "หน้างาน คุณโก้ 089-7459878",
-    "createdAt": "2025-06-24T23:17:23",
-    "customerId": "7547-62",
+    "_id": "import_8a2a7c22-2e5f-45f4-8591-9c0e096c90b6",
+    "content": "ประกาศวันหยุด\r\nบริษัท อินโนเวชั่น ลิฟวิ่ง จำกัด\r\nขอแจ้งวันหยุดยาวเนื่องในวันทางศาสนา\r\nวันอาสาฬหบูชาและวันเข้าพรรษา\r\nตั้งแต่วันพฤหัสบดีที่ 10-12 กรกฎาคม 2568\r\nเปิดทำการปกติ วันจันทร์ที่ 14 กรกภาคม 2568",
+    "createdAt": "2025-07-09T13:30:32.000Z",
+    "customerId": "113213",
     "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_f96bbe2c-d86e-44a6-a61e-1b0eb13c029f",
-    "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-24T23:17:25",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_820c09ce-bd29-4806-a8a0-5d0ecef2210d",
-    "content": "ขอบคุณค่ะ",
-    "createdAt": "2025-06-25T11:35:43",
-    "customerId": "239921-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_2ae014e6-24db-46b1-ab87-c0b7023888cb",
-    "content": "ขอนัดดูหน้างาน วันเสาร์ที่5 นะคะ",
-    "createdAt": "2025-06-26T15:44:17",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_50ec69bd-7ff9-4854-956f-396e160aae97",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-26T16:25:00",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_b0b5d31b-aa82-4efe-93ef-8827e0864429",
-    "content": "รบกวนโอนค่าสำรวจ 3000 บาท ผ่านคิวอาร์โค้ดนี้ได้เลยค่ะ",
-    "createdAt": "2025-06-26T16:25:33",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_b1212eb9-cc5c-4904-be2c-7b41b903f678",
-    "content": "You sent a photo.",
-    "createdAt": "2025-06-26T16:44:44",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_3f38f9f3-53d9-488a-8904-16af584ad669",
-    "content": "เป็นวันที่ 5/7/68 เวลา 11.00 นะคะ",
-    "createdAt": "2025-06-26T16:57:13",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_dfe1c110-2b00-4db9-9344-0d63bbe9447c",
-    "content": "ขอบพระคุณมากค่ะ",
-    "createdAt": "2025-06-26T16:57:24",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_50a681ee-ec87-4f0c-8619-680086b22230",
-    "content": "Ok",
-    "createdAt": "2025-06-26T17:25:33",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_ffc3d28f-d008-4cd1-b5c3-49f4a2027ff7",
-    "content": "You sent a sticker.",
-    "createdAt": "2025-06-26T17:36:07",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_c72f4709-96aa-4806-8f62-b7c9b9ba7ec7",
-    "content": "จะรบกวนขอรูปที่หน้างานไว้ให้ด้วยได้ไหมคะเพื่อแจ้งกับทางทีมสำรวจค่ะ",
-    "createdAt": "2025-06-26T17:38:24",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_9803379f-5e92-4f5e-96b2-ae295d395258",
-    "content": "รบกวนขอ ภพ20 ด้วยนะคะคุณโก้",
-    "createdAt": "2025-06-27T19:13:06",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_73645601-26e8-40b6-964a-ae595d41a746",
-    "content": "ทางบริษัท ไม่ได้จด ภพ 20คะ",
-    "createdAt": "2025-06-27T22:14:05",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_6bd2f423-6d43-46c0-9cf6-c35905eba162",
-    "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-27T22:14:07",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_4cfb1be1-1a7c-4d84-a3bc-9bdc6391b89a",
-    "content": "เพราะเป็นธุรกิจบริการ",
-    "createdAt": "2025-06-27T22:14:15",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_99f56e59-50bb-4ee1-a698-3b65d32f1776",
-    "content": "ขณะนี้เป็นนอกเวลาทำการ ทีมงาน ALNEX จะติดต่อกลับท่านโดยเร็วที่สุดในวันและเวลาทำการ วันจันทร์-วันเสาร์ เวลา 8:30 - 17:00 น.\r\nท่านสามารถดูรายละเอียดสินค้าเบื้องต้นได้ตามตัวเลือกด้านล่างนี้",
-    "createdAt": "2025-06-27T22:14:17",
-    "customerId": "870817-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_6515d2e8-da93-445c-b375-e5621bc5a6d2",
-    "content": "ขอเป็นหนังสือรับรองได้ค่ะ",
-    "createdAt": "2025-06-28T10:55:38",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_e8c323f7-d23e-44b7-8b76-626555a04cba",
-    "content": "รับทราบคะ",
-    "createdAt": "2025-06-28T11:09:51",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_b6a859eb-71c8-417c-b56e-4a7525aa5c01",
-    "content": "You sent a sticker.",
-    "createdAt": "2025-06-28T11:10:36",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_7c96b948-2d18-4863-858d-3ff7cea78831",
-    "content": "You sent a file.",
-    "createdAt": "2025-06-28T11:48:41",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_b037f7e3-140c-43f7-a4a9-c8f6660878a6",
-    "content": "ขอบคุณสำหรับข้อมูลนะคะ ",
-    "createdAt": "2025-06-28T12:12:40",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_32fa7b5f-2efd-4079-8159-5f34ee8f18bc",
-    "content": "เดี๋ยวประสานงานต่อให้ค่ะ ",
-    "createdAt": "2025-06-28T12:12:58",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_2d53df48-c0fa-4363-93a4-3e8320a3f1dd",
-    "content": "You sent a sticker.",
-    "createdAt": "2025-06-28T13:18:25",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_30778b0e-f5cd-4f4a-a10d-f3e86dce039e",
-    "content": "You sent a sticker.",
-    "createdAt": "2025-06-28T13:32:47",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_c7b63451-831f-4067-a3f3-abd1b425c89f",
-    "content": "รบกวนสอบถามเพิ่มเติมเพื่อยืนยันค่ะ ให้เปิดนิลเป็นในนามของสำนักงานใหญ่หรือสาขาที่กรุงเทพนะคะ",
-    "createdAt": "2025-06-30T13:50:15",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_752afed8-67de-4ee8-8641-fe5c2b1bab88",
-    "content": "สำนักงาน สาขาคะ",
-    "createdAt": "2025-06-30T14:31:46",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_e2efe7fb-57d1-4728-bec8-6285695d2e05",
-    "content": "รับทราบค่ะ",
-    "createdAt": "2025-06-30T15:23:29",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_bd18bcf6-a457-4a5b-ac5a-75cc4072fd2e",
-    "content": "สวัสดีค่ะคุณโก้\r\nแจ๊สขอสรุปรายการที่ได้เข้าไปสำรวจพื้นที่หน้างานนะคะ\r\n1. ประตูบานเลื่อนโค้ง \r\nบานกว้าง 4.45 ม. สูง 3.00 ม. \r\nต้องมีทำคานบนเพื่อรับบาน และระยะโค้งของบานจะโดนพื้นที่บ่อพัก ด้วยนะคะ ",
-    "createdAt": "2025-07-09T17:08:48",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_40555caf-b1fb-4903-bb8a-60d16476499a",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-09T17:09:28",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_bff92961-0abc-4241-b9cf-3b0f67295ef8",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-09T17:09:29",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_045b0fc2-761e-4c30-9d43-defeca0d74e4",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-09T17:09:29",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_65c81358-e4ff-49b6-a300-40d65bfa5c95",
-    "content": "ตัวอย่างบานโค้งค่ะ",
-    "createdAt": "2025-07-09T17:31:31",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_df6a713a-c01b-4495-8227-235b9ea078fc",
-    "content": "สวัสดีค่ะคุณโก้ ",
-    "createdAt": "2025-07-15T12:14:12",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_e9fd923b-1ac3-46b0-9d91-e16e6febc2a8",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-15T12:16:19",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_c566d803-63af-42b3-9790-cdcda502565b",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-15T12:16:20",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_6e6928d2-3c8d-4ac0-ba43-552d742a2bae",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-15T12:16:20",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_9326d313-92e5-4221-b53b-20c76033b828",
-    "content": "บานโค้งที่แจ๊สแจ้งไปว่าทำคานบานไม่ติดอะไรใช่ไหมคะ ",
-    "createdAt": "2025-07-15T12:16:20",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_492d09d1-93f3-4231-b2dc-be76a8bfc9fc",
-    "content": "อันนี้ซี่บานตัวอย่างค่ะ คุณโก้ชอบเป็นรุ่นไหนดีคะ เดี๋ยวแจ๊สจะทำใบเสนอราคาให้ค่ะ",
-    "createdAt": "2025-07-15T12:17:11",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_40ab863d-07f1-4733-a04f-9b5134129bee",
-    "content": "เน้นทึบ กว่านี้คะ",
-    "createdAt": "2025-07-15T12:17:42",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_2d7b7fc6-d591-4c36-b994-1f5d6a94b987",
-    "content": "ไม่ติดคะ ทางคุณแจ๊สเป็นคนทำให้พี่ใช่ไหมคะ",
-    "createdAt": "2025-07-15T12:18:08",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_90357e37-8ea8-479d-9b0b-9193b8b3bcca",
-    "content": "พี่ขอช่องให้แม่บ้านเปิดออก\r\n\r\nและช่องรับส่งอาหารและพัสดุ ด้วยนะคะ",
-    "createdAt": "2025-07-15T12:18:51",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_051a9931-fb46-46cc-8fdf-18b209942e49",
-    "content": "ใช่ค่ะ แจ๊สเป็นคนทำให้ค่ะ",
-    "createdAt": "2025-07-15T12:19:15",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_a0d89a5f-1e97-4a5f-ab37-8e3bbd0fd29a",
-    "content": "พี่ติดงานที่ ตจว\r\nต้นเดือนจะเข้าไปคุย รายละเอียดและเลือกสีคะ",
-    "createdAt": "2025-07-15T12:19:28",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_76dbdd36-d9f3-4cb8-8805-d96ddcb8bf89",
-    "content": "เยี่ยมคะ",
-    "createdAt": "2025-07-15T12:19:44",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_536cf0fe-1264-4806-8872-c3f5bceccbcc",
-    "content": "ถ้าบานโค้งจะทำทึบมากไม่ได้ค่ะ เนื่องจากเป็นเรื่องน้ำหนักของบานค่ะ",
-    "createdAt": "2025-07-15T12:19:55",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_ed8ea1bd-9203-4d31-9b91-c170d7e69fec",
-    "content": "เดี๋ยวแจ๊สลองดูซี่ให้เบื้องต้นที่ดูทึบที่สุดนะคะ",
-    "createdAt": "2025-07-15T12:20:12",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_7acf4575-781b-4f31-9a69-1efa35d7c426",
-    "content": "ได้เลยค่ะ",
-    "createdAt": "2025-07-15T12:20:27",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_d2d71919-7730-4ac3-beea-8de9e79e3f13",
-    "content": "แต่พี่จะให้เริ่มทำหลังจากพี่ขนของใหญ่ๆๆเข้าหน้างาน ก่อน\r\n\r\nเพราะรถใหญ่จะได้เข้าง่ายๆ",
-    "createdAt": "2025-07-15T12:20:42",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_b0c741e3-fadb-4b27-b197-effe075103b7",
-    "content": "ตอนนี้ ภายในฉาบใกล้จบ แล้วคะ",
-    "createdAt": "2025-07-15T12:21:33",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_dbb29f71-e713-4e93-ab17-d6a4d65bf7a2",
-    "content": "จะเป็นช่วงๆเดือนไหนคะ",
-    "createdAt": "2025-07-15T12:21:44",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_d5f4f1e7-f7c6-4075-a3ba-ebc75f58577f",
-    "content": "น้องแจ๊ส ทำลายซี่ส่งมาให้พี่เลือกๆๆไว้ก่อนนะคะ",
-    "createdAt": "2025-07-15T12:21:59",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_2e7e071f-f3ca-4351-9368-5a92368cf85e",
-    "content": "จะได้ทำการบ้านไปพลางๆคะ",
-    "createdAt": "2025-07-15T12:22:12",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_4bc08f89-bad4-4490-ba32-6c89a09e078c",
-    "content": "ได้ค่ะเดี๋ยวแจ๊สลองทำลายไว้ให้เลือกนะคะ",
-    "createdAt": "2025-07-15T12:22:25",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_741c8627-0896-4a12-ae49-0ce21ce82e08",
-    "content": "You sent a sticker.",
-    "createdAt": "2025-07-15T12:22:46",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_c32948c2-e2a4-489d-b7ea-3bde75e69a29",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:06",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_8ca4af03-6155-4c2a-8a93-39df69acd506",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:06",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_9830e36f-1867-45c9-915b-d7efa3075008",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:06",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_799a1785-54e8-4e58-8034-ee9fa9e35cb5",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:07",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_aa5a5e00-1260-404e-a070-7be0ddffa26a",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:07",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_0760ae58-9c8c-4a06-b6b0-4e1729bde332",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:07",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_53738af7-4f3f-4033-827e-43e20be93380",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:30",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_9cfd7753-40f9-4eb0-98a7-8e129c163d25",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:31",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_6fc017ef-2d5a-428f-a77e-eed776720bad",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:39",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_31111d2c-c93d-4fb3-83cf-8238cef01e91",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:39",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_63ed56d0-848c-4707-a5d5-8c5b48dddc64",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:29:40",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_ac035546-1ce3-4b91-959d-7a7f8cf20138",
-    "content": "ซี่ที่แจ๊สส่งไปจะเป็นซี่ที่เป็นมาตรฐานนะคะ ",
-    "createdAt": "2025-07-30T12:29:54",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_288d8d5c-145f-40ff-bf87-ba19b617c883",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:30:13",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_bdef979e-aae7-40dd-ba1a-bb92ebe6f240",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:30:14",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_1b17b4ac-c4cb-49f8-8bda-d83e55400d76",
-    "content": "You sent a photo.",
-    "createdAt": "2025-07-30T12:30:14",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_f2f73ec8-5ea9-4ab9-8359-3d907222a416",
-    "content": "อันนี้จะเป็นลาย Custom ที่ทาง ALNEX เคยทำค่ะ",
-    "createdAt": "2025-07-30T12:30:55",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
-  },
-  {
-    "_id": "import_304b71e6-b1e1-4d3f-aa6d-9ef36e6961be",
-    "content": "สวัสดีคะ น้องแจ๊ส\r\nพี่ยังติดงาน ที่ ตจว",
-    "createdAt": "2025-07-30T12:46:25",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_75a7ba85-7a50-488d-8d97-d2276e22f7c7",
-    "content": "ยังไม่ได้เข้า กทม คะ",
-    "createdAt": "2025-07-30T12:46:36",
-    "customerId": "7547-62",
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": false
-  },
-  {
-    "_id": "import_c503f9b1-4b37-4b80-8525-d2f540e5fdcd",
-    "content": "ไม่เป็นไรค่ะ ดูไปพลางๆก่อนได้ค่ะ",
-    "createdAt": "2025-07-30T14:05:05",
-    "customerId": null,
-    "userId": null,
-    "conversationId": null,
-    "is3rdParty": true
+    "conversationId": "94467",
+    "from3rdParty": false
   }
 ]
